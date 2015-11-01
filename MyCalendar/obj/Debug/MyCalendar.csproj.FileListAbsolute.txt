@@ -1,0 +1,27 @@
+c:\users\andrey\documents\visual studio 2013\Projects\MyCalendar\MyCalendar\bin\Debug\MyCalendar.exe.config
+c:\users\andrey\documents\visual studio 2013\Projects\MyCalendar\MyCalendar\bin\Debug\MyCalendar.exe
+c:\users\andrey\documents\visual studio 2013\Projects\MyCalendar\MyCalendar\bin\Debug\MyCalendar.pdb
+c:\users\andrey\documents\visual studio 2013\Projects\MyCalendar\MyCalendar\obj\Debug\MyCalendar.csprojResolveAssemblyReference.cache
+c:\users\andrey\documents\visual studio 2013\Projects\MyCalendar\MyCalendar\obj\Debug\MyCalendar.exe
+c:\users\andrey\documents\visual studio 2013\Projects\MyCalendar\MyCalendar\obj\Debug\MyCalendar.pdb
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\MyCalendar\MyCalendar\bin\Debug\CookComputing.XmlRpcV2.dll
+C:\Users\mahdi_000\Downloads\Desktop\MyCalendar_C#\MyCalendar\MyCalendar\bin\Debug\MyCalendar.exe.config
+C:\Users\mahdi_000\Downloads\Desktop\MyCalendar_C#\MyCalendar\MyCalendar\obj\Debug\MyCalendar.exe
+C:\Users\mahdi_000\Downloads\Desktop\MyCalendar_C#\MyCalendar\MyCalendar\obj\Debug\MyCalendar.pdb
+C:\Users\mahdi_000\Downloads\Desktop\MyCalendar_C#\MyCalendar\MyCalendar\obj\Debug\MyCalendar.csprojResolveAssemblyReference.cache
+C:\Users\mahdi_000\Downloads\Desktop\MyCalendar_C#\MyCalendar\MyCalendar\bin\Debug\MyCalendar.exe
+C:\Users\mahdi_000\Downloads\Desktop\MyCalendar_C#\MyCalendar\MyCalendar\bin\Debug\MyCalendar.pdb
+C:\Users\mahdi_000\Downloads\Desktop\MyCalendar_C#\MyCalendar\MyCalendar\bin\Debug\CookComputing.XmlRpcV2.dll
+D:\Projects\Completed Projects\TokenRingFinal\calendar1_C#\MyCalendar\MyCalendar\bin\Debug\MyCalendar.exe.config
+D:\Projects\Completed Projects\TokenRingFinal\calendar1_C#\MyCalendar\MyCalendar\obj\Debug\MyCalendar.exe
+D:\Projects\Completed Projects\TokenRingFinal\calendar1_C#\MyCalendar\MyCalendar\obj\Debug\MyCalendar.pdb
+D:\Projects\Completed Projects\TokenRingFinal\calendar1_C#\MyCalendar\MyCalendar\bin\Debug\MyCalendar.exe
+D:\Projects\Completed Projects\TokenRingFinal\calendar1_C#\MyCalendar\MyCalendar\bin\Debug\MyCalendar.pdb
+D:\Projects\Completed Projects\TokenRingFinal\calendar1_C#\MyCalendar\MyCalendar\bin\Debug\CookComputing.XmlRpcV2.dll
+D:\Projects\Completed Projects\TokenRingFinal\calendar1_C#\MyCalendar\MyCalendar\bin\Debug\mscorlib.dll
+D:\Projects\Completed Projects\TokenRingFinal\calendar1_C#\MyCalendar\MyCalendar\bin\Debug\normidna.nlp
+D:\Projects\Completed Projects\TokenRingFinal\calendar1_C#\MyCalendar\MyCalendar\bin\Debug\normnfc.nlp
+D:\Projects\Completed Projects\TokenRingFinal\calendar1_C#\MyCalendar\MyCalendar\bin\Debug\normnfd.nlp
+D:\Projects\Completed Projects\TokenRingFinal\calendar1_C#\MyCalendar\MyCalendar\bin\Debug\normnfkc.nlp
+D:\Projects\Completed Projects\TokenRingFinal\calendar1_C#\MyCalendar\MyCalendar\bin\Debug\normnfkd.nlp
+D:\Projects\Completed Projects\TokenRingFinal\calendar1_C#\MyCalendar\MyCalendar\obj\Debug\MyCalendar.csprojResolveAssemblyReference.cache
